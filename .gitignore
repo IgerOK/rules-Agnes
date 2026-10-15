@@ -1,0 +1,16 @@
+# Системный хлам операционных систем
+Thumbs.db
+.DS_Store
+
+# Конфигурации, логи и кэш ИИ-верстака
+.agnes/
+.agnescode/
+*.log
+HANDOFF.md
+
+# Локальные файлы и секреты
+*.local.md
+.env
+auth.json
+keys.json
+nul
